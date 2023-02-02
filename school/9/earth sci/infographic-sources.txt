@@ -1,0 +1,6 @@
+# sources for earth science infographic
+
+main source: https://en.wikipedia.org/wiki/Babuyan_Claro_Volcano
+secondary source: https://volcano.si.edu/volcano.cfm?vn=274030 (did not used this though because smith volcano and mt. pangasun's page are merged together.)
+landscape view: https://volcanianoficial.com/babuyan-claro/
+aerial view: google earth (yum)
